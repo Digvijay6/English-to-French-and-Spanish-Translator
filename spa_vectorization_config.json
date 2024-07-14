@@ -1,0 +1,1 @@
+{"name": "text_vectorization_1", "trainable": true, "batch_input_shape": [null], "dtype": "string", "max_tokens": 15000, "split": "whitespace", "ngrams": null, "output_mode": "int", "output_sequence_length": 21, "pad_to_max_tokens": false, "sparse": false, "ragged": false, "vocabulary": null, "idf_weights": null}
